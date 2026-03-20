@@ -27,11 +27,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Giacomo Jimenez** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ariana Cortez** | Líder del equipo | Innovación social, sostenibilidad, |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Luis Huaccha** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Dulce Huicho** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Dulce Huicho** | Diseñador/a | Diseño de prototipos, creatividad visual |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Claudiana Pineda** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ariana Cortez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Giacomo Jimenez** | Programador - Modelador | Programación, análisis de datos, simulación |
 
 ---
 
