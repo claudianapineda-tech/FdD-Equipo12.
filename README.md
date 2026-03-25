@@ -12,7 +12,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 3: Salud y Bienestar  
 - ODS 7: Agua Limpia y Saneamiento  
 - ODS 14: Vida submarina
-En conjunto, estos objetivos permite mejorar la salud de la población, garantizar el acceso al agua limpia y conservar los ecosistemas, contribuyendo al desarrollo sostenible que integre el bienestar humano y la protección del medio ambiente.
+
+  En conjunto, estos objetivos permite mejorar la salud de la población, garantizar el acceso al agua limpia y conservar los ecosistemas, contribuyendo al desarrollo sostenible que integre el bienestar humano y la protección del medio ambiente.
 ---
 
 ## 📸 Fotografía del Equipo  
