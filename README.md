@@ -36,4 +36,4 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-Este README presenta de manera clara quiénes somos como equipo, cuáles son nuestras motivaciones y en qué Objetivos de Desarrollo Sostenible (ODS) enfocaremos nuestro trabajo a lo largo del curso. 
+Este README describe de manera clara la identidad del equipo, sus motivaciones y los Objetivos de Desarrollo Sostenible (ODS) en los que se centrará el trabajo a lo largo del curso. 
