@@ -10,17 +10,21 @@ Somos el **Equipo 12** del curso Fundamentos de Diseño 2026-1, conformado por e
 ## 🎯 Introducción
 El acceso y la calidad del agua en viviendas que utilizan tanques de almacenamiento es un aspecto crítico para la salud pública. En Lima Metropolitana, estos sistemas son ampliamente utilizados, pero suelen carecer de monitoreo adecuado, lo que permite la acumulación de contaminantes que no son visibles a simple vista. Esto hace que la población consuma agua en mal estado sin darse cuenta, detectándolo recién cuando ya se han producido efectos en la salud. Además, la falta de control en el llenado de los tanques puede generar desperdicio de agua. En este contexto, se plantea la necesidad de un sistema inteligente que permita supervisar la calidad del agua en tiempo real y optimizar su uso.
 
-## ⚠️ Problemática
-En los hogares con tanques de agua se presentan dos problemas principales:
+## ⚠️ Problemática  
 
-Contaminación no visible del agua
-La calidad del agua puede deteriorarse sin cambios visibles.
-Las personas suelen detectar el problema cuando ya existe daño o enfermedad.
-El consumo de agua contaminada puede contribuir a enfermedades comunes en el Perú como infecciones gastrointestinales y enfermedades transmitidas por vectores como el dengue, asociadas a condiciones de almacenamiento inadecuadas.
-Falta de control y desperdicio de agua
-El llenado de tanques no es automatizado.
-Se generan reboses y uso ineficiente del recurso hídrico.
+En comunidades rurales donde el acceso al agua potable es gestionado por las Juntas Administradoras de Servicios de Saneamiento (JASS), se identifican dos problemáticas principales:
 
+### 1. Deficiente desinfección del agua  
+- La dosificación de cloro se realiza de manera manual y empírica.  
+- No se garantiza una concentración adecuada de cloro residual (mínimo 0.5 mg/L).  
+- Se han evidenciado niveles bajos o nulos de cloro en sistemas de abastecimiento.  
+- Existe mayor riesgo de proliferación de microorganismos y enfermedades en la población.  
+
+### 2. Falta de monitoreo de la calidad del agua  
+- No se controlan parámetros clave como el pH y la turbidez.  
+- Se pueden presentar valores fuera de los rangos adecuados para consumo humano.  
+- La detección de problemas en la calidad del agua no es oportuna.  
+- Se limita la capacidad de respuesta ante fallas en el sistema de abastecimiento.
 ## Problema integrador  
 En muchas comunidades rurales, el acceso al agua potable es gestionado por las Juntas Administradoras de Servicios de Saneamiento (JASS), las cuales se encargan del almacenamiento y distribución del recurso hídrico mediante tanques cisterna. Sin embargo, en estos sistemas no siempre se cuenta con mecanismos adecuados para la dosificación controlada de cloro ni con herramientas de monitoreo continuo de la calidad del agua.  
 
