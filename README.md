@@ -18,7 +18,7 @@ Ante esta situación, se propone el desarrollo de un sistema automatizado que pe
 
 1. Dosificación inadecuada de cloro
 
-  En sistemas gestionados por las Juntas Administradoras de Servicios de Saneamiento, la cloración se realiza de forma manual y sin criterios técnicos estandarizados. Esto genera variaciones en la cantidad aplicada, ocasionando periodos con niveles insuficientes o excesivos de cloro en el agua.
+   En sistemas gestionados por las Juntas Administradoras de Servicios de Saneamiento, la cloración se realiza de forma manual y sin criterios técnicos estandarizados. Esto genera variaciones en la cantidad aplicada, ocasionando periodos con niveles insuficientes o excesivos de cloro en el agua.
 
 2. Falta de monitoreo y control continuo 
 
@@ -28,12 +28,12 @@ Ante esta situación, se propone el desarrollo de un sistema automatizado que pe
 
    La deficiente gestión de la cloración y el control del agua incrementa el riesgo de Enfermedades Diarreicas Agudas en la población, especialmente en comunidades rurales donde el acceso a agua segura es limitado.
   
-## Problema integrador  
+## 👽 Problema integrador  
 En muchas comunidades rurales, el acceso al agua potable es gestionado por las Juntas Administradoras de Servicios de Saneamiento (JASS), las cuales se encargan del almacenamiento y distribución del recurso hídrico mediante tanques cisterna. Sin embargo, en estos sistemas no siempre se cuenta con mecanismos adecuados para la dosificación controlada de cloro ni con herramientas de monitoreo continuo de la calidad del agua.  
 
 Esta situación puede generar una desinfección ineficiente, la proliferación de microorganismos y la posible presencia de contaminantes, afectando la calidad del agua y representando un riesgo para la salud pública. Además, la falta de control técnico limita una gestión eficiente y sostenible del recurso hídrico en estas comunidades.
  
-## Presentación de la solución  
+## 🤗 Presentación de la solución  
 Se propone el **diseño e implementación de un sistema de dosificación de cloro en tanques cisterna para el tratamiento de agua potable dirigido a comunidades rurales gestionadas por Juntas Administradoras de Servicios de Saneamiento (JASS)**.  
 
 Este sistema integrará sensores para el monitoreo de parámetros como el pH, la turbidez y nivel del agua junto con un mecanismo automatizado de dosificación de cloro, permitiendo mantener niveles adecuados de desinfección en sistemas de abastecimiento comunitario.  
@@ -41,7 +41,7 @@ Este sistema integrará sensores para el monitoreo de parámetros como el pH, la
 Asimismo, contará con un sistema de alertas que facilite a los operadores de la JASS el control oportuno de la calidad del agua, contribuyendo a mejorar la salud pública, prevenir enfermedades y fortalecer la gestión comunitaria del recurso hídrico en zonas rurales.
 
 
-## El sistema sigue los pasos:
+## 🙌 El sistema sigue los pasos:
 
 🔹Monitoreo de nivel del tanque:
  El sistema inicia con la medición del nivel de agua, mediante un sensor que determina la cantidad de agua almacenada en el tanque. Esta información permite conocer el volumen disponible y evitar errores en la dosificación, como operar sin agua o sobredosificar.
