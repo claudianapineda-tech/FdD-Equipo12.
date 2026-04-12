@@ -69,12 +69,12 @@ Si las condiciones lo requieren, el Arduino activa una bomba dosificadora, que a
 🔹Sistema de alertas:
 El sistema genera alertas automáticas cuando detecta:
 - pH
-   🟢 Normal: 6.5 – 8.0
-   🔴 Crítico: < 6.5 o > 8.5 (riesgo para consumo y desinfección ineficiente)
+   . 🟢 Normal: 6.5 – 8.0
+   . 🔴 Crítico: < 6.5 o > 8.5 (riesgo para consumo y desinfección ineficiente)
    
 - Turbidez
-   🟢 Normal: ≤ 5 NTU
-   🔴 Crítico: > 5 NTU (alta presencia de partículas o contaminación)
+   . 🟢 Normal: ≤ 5 NTU
+   . 🔴 Crítico: > 5 NTU (alta presencia de partículas o contaminación)
 
 
 ## 🎯 Objetivos de Desarrollo Sostenible
