@@ -42,7 +42,6 @@ Asimismo, contará con un sistema de alertas que facilite a los operadores de la
 
 
 ## 🙌 El sistema sigue los pasos:
-
 🔹Monitoreo de nivel del tanque:
  El sistema inicia con la medición del nivel de agua, mediante un sensor que determina la cantidad de agua almacenada en el tanque. Esta información permite conocer el volumen disponible y evitar errores en la dosificación, como operar sin agua o sobredosificar.
 
@@ -51,8 +50,10 @@ Asimismo, contará con un sistema de alertas que facilite a los operadores de la
 - pH (condición química del agua)
   El sistema verifica el nivel de acidez o alcalinidad del agua.
 Para que la desinfección con cloro sea eficaz, se considera que el pH debe ser menor a 8, ya que en ese rango el cloro mantiene una mayor eficiencia desinfectante.
+
 - Turbidez (presencia de partículas o suciedad)
-  Permite identificar contaminación visible o carga de sólidos en el agua. Y este deberá ser menor de 5 unidades nefelométricas de turbiedad (UNT). 
+  Permite identificar contaminación visible o carga de sólidos en el agua. Y este deberá ser menor de 5 unidades nefelométricas de turbiedad (UNT), ya que alta turbidez reduce la efectividad del cloro porque protege microorganismos.
+
 Estos parámetros permiten determinar si el agua es apta, está en estado de alerta o no es apta para consumo, evaluando cambios en tiempo real.
 
 🔹Procesamiento y control (Arduino):
@@ -69,22 +70,26 @@ Si las condiciones lo requieren, el Arduino activa una bomba dosificadora, que a
 El sistema genera alertas automáticas cuando detecta:
 - pH
    🟢 Normal: 6.5 – 8.0
-   🟡 Alerta: 8.0 – 8.5 (disminuye la eficiencia del cloro)
    🔴 Crítico: < 6.5 o > 8.5 (riesgo para consumo y desinfección ineficiente)
+   
 - Turbidez
    🟢 Normal: ≤ 5 NTU
    🔴 Crítico: > 5 NTU (alta presencia de partículas o contaminación)
-   Alta turbidez reduce la efectividad del cloro porque protege microorganismos.
+
 
 ## 🎯 Objetivos de Desarrollo Sostenible
 
 🚰 ODS 6: Agua limpia y saneamiento  
 
-El proyecto se alinea con este objetivo porque busca garantizar que el agua almacenada en tanques domésticos sea segura para el consumo humano. A través del monitoreo continuo de la calidad del agua, el sistema permite detectar contaminantes que no son visibles a simple vista, evitando que las personas utilicen agua en mal estado sin saberlo. Además, el sistema emite alertas cuando la calidad del agua no es adecuada, lo que permite tomar acciones inmediatas como la limpieza o mantenimiento del tanque. De esta manera, se mejora la gestión del recurso hídrico en el hogar, se reduce el riesgo de consumo de agua contaminada y se promueve un uso más responsable y seguro del agua potable.
+El proyecto se alinea con el ODS 6 al implementar un sistema de monitoreo continuo y tratamiento automatizado para agua almacenada en tanques cisterna, abordando la falta de control de calidad en sistemas domésticos. Desde una perspectiva de ingeniería, la solución integra sensores de pH, turbidez y nivel, permitiendo la evaluación en tiempo real de parámetros críticos según estándares sanitarios. Esta integración facilita la clasificación automática del estado del recurso (apta, alerta o crítica) y la ejecución de procesos de desinfección mediante una dosificación de cloro controlada.
+
+Este enfoque reduce significativamente la exposición a agua no tratada y fortalece el control sanitario en zonas sin infraestructura centralizada. Asimismo, al incorporar alertas y una dosificación proporcional al volumen, el sistema optimiza la eficiencia del tratamiento, mitigando los riesgos de subdosificación o sobredosificación del desinfectante.
 
 ❤️ ODS 3: Salud y bienestar  
 
-Este objetivo se relaciona directamente con la prevención de enfermedades asociadas al consumo de agua contaminada. En el contexto del Perú, el uso de agua almacenada sin control puede contribuir a enfermedades gastrointestinales y otras afecciones relacionadas con la mala calidad del agua, e incluso agravar condiciones sanitarias en el entorno. El sistema propuesto actúa como un mecanismo de alerta temprana, ya que detecta cambios en la calidad del agua antes de que estos generen daños en la salud de las personas. Asimismo, al indicar cuándo es necesario realizar mantenimiento o limpieza del tanque, ayuda a prevenir la acumulación de bacterias y contaminantes. En conjunto, esto permite proteger la salud de los usuarios y mejorar su calidad de vida mediante la reducción de riesgos sanitarios prevenibles.
+El proyecto contribuye al ODS 3 ya que este mecanismo reduce la proliferación de microorganismos patógenos en el almacenamiento, especialmente en entornos que carecen de vigilancia sanitaria constante. Asimismo, el sistema de alertas actúa como un dispositivo de detección temprana, permitiendo al usuario intervenir oportunamente mediante el mantenimiento del tanque o la suspensión del consumo. Esto impacta directamente en la disminución de enfermedades gastrointestinales y otros riesgos asociados al uso de agua contaminada.
+
+
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
